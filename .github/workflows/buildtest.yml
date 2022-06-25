@@ -42,16 +42,6 @@ jobs:
     - name: Build with Maven
       run: mvn -B clean install site --file pom.xml
 
-    - name: Prepare artifacts
-      run: mkdir staging && cp target/*.jar staging && cp -R target/site staging
-      
-    - name: Upload artifacts
-      uses: actions/upload-artifact@v3
-      with:
-        name: Package
-        path: staging
-        retention-days: 5
-      
     - uses: codecov/codecov-action@v2
       with:
         token: ${{ secrets.CODECOV_TOKEN }} 

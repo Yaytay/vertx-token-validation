@@ -1,7 +1,7 @@
 # vertx-jwt-validation
 
-[![Latest release](https://img.shields.io/github/release/yaytay/verx-token-validation.svg)](https://github.com/yaytay/verx-token-validation/latest)
-[![License](https://img.shields.io/github/license/yaytay/verx-token-validation)](https://github.com/yaytay/vertx-token-validation/blob/main/LICENCE.md)
+[![Latest release](https://img.shields.io/github/release/yaytay/vertx-token-validation.svg)](https://github.com/yaytay/vertx-token-validation/latest)
+[![License](https://img.shields.io/github/license/yaytay/vertx-token-validation)](https://github.com/yaytay/vertx-token-validation/blob/master/LICENCE.md)
 [![Issues](https://img.shields.io/github/issues/yaytay/vertx-token-validation)](https://github.com/yaytay/vertx-token-validation/issues)
 [![Build Status](https://github.com/yaytay/vertx-token-validation/actions/workflows/buildtest.yml/badge.svg)](https://github.com/Yaytay/vertx-token-validation/actions/workflows/buildtest.yml)
 [![CodeCov](https://codecov.io/gh/Yaytay/vertx-token-validation/branch/main/graph/badge.svg?token=ACHVK20T9Q)](https://codecov.io/gh/Yaytay/vertx-token-validation)
