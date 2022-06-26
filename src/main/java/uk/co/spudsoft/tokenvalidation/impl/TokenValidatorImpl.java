@@ -34,9 +34,9 @@ public class TokenValidatorImpl implements TokenValidator {
   
   private EnumSet<JsonWebAlgorithm> permittedAlgs;
   
-  private boolean requireExp;
-  private boolean requireNbf;
-
+  private boolean requireExp = true;
+  private boolean requireNbf = true;
+  
   private long timeLeewaySeconds = 0;
   
   private final JsonWebKeySetHandler openIdDiscoveryHandler;
