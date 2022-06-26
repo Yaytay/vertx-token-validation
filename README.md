@@ -1,4 +1,4 @@
-# vertx-jwt-validation
+# vertx-token-validation
 
 [![Latest release](https://img.shields.io/github/release/yaytay/vertx-token-validation.svg)](https://github.com/yaytay/vertx-token-validation/latest)
 [![License](https://img.shields.io/github/license/yaytay/vertx-token-validation)](https://github.com/yaytay/vertx-token-validation/blob/master/LICENCE.md)
